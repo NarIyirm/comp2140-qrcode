@@ -20,12 +20,14 @@ On the ProjectList page, you can refresh the project list by pulling down the sc
     1. **Location Name**: `BNE D Terminal`
        - **Position**: `(-27.384068, 153.120577)`
        - **Points**: `10`
-       - **QRCode**: <img width="114" alt="BNE D Terminal QRCode" src="https://github.com/user-attachments/assets/b0516a5f-1a5f-4418-9491-68f26e6b1fc6">
+       - **QRCode**: 
+       <img width="114" alt="BNE D Terminal QRCode" src="https://github.com/user-attachments/assets/b0516a5f-1a5f-4418-9491-68f26e6b1fc6">
 
     2. **Location Name**: `Roma Street Station`
        - **Position**: `(-27.464731, 153.019171)`
        - **Points**: `10`
-       - **QRCode**: <img width="114" alt="Roma Street Station QRCode" src="https://github.com/user-attachments/assets/0f94ff2b-a5ff-4ba4-b578-976b3719e18b">
+       - **QRCode**: 
+       <img width="114" alt="Roma Street Station QRCode" src="https://github.com/user-attachments/assets/0f94ff2b-a5ff-4ba4-b578-976b3719e18b">
 
 
 # Important Note
